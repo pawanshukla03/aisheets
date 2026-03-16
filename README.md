@@ -4,6 +4,10 @@ A spreadsheet app with a Google Sheets–like grid and common operations.
 
 ## Run locally
 
+**Single-click:** Double-click **`launcher.bat`** or **`Start-AISheets.cmd`** in the AISheets folder. The app will build (first time), start the server, and open in your browser at http://127.0.0.1:3847. Keep the "AISheets Server" window open while you use the app.
+
+**Or from terminal:**
+
 ```bash
 npm install
 npm run dev
